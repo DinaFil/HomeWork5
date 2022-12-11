@@ -15,7 +15,7 @@ return array;
 
 Random A = new Random();
 
-int[
+int[]collection = CreateArray(A);
     
 
 int UnevenIndexSum(int[] arr)
